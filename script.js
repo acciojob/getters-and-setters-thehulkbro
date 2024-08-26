@@ -31,10 +31,10 @@ class Teacher extends Person {
 }
 
 // Example usage:
-const student = new Student("Alice", 20);
+const student = new Student("Alice", 22);
 student.study(); // Output: "Alice is studying."
 
-const teacher = new Teacher("Mr. Smith", 40);
+const teacher = new Teacher("Jhon", 25);
 teacher.teach(); // Output: "Mr. Smith is teaching."
 
 // Do not change the code below this line
